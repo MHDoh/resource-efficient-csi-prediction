@@ -92,7 +92,7 @@ Input Sequence ──► GRU Encoder ──► Luong Attention ──► Bottlen
 ### Installation
 
 ```bash
-git clone https://github.com/<your-username>/resource-efficient-csi-prediction.git
+git clone https://github.com/MHDoh/resource-efficient-csi-prediction.git
 cd resource-efficient-csi-prediction
 pip install -r requirements.txt
 ```
