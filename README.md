@@ -178,3 +178,12 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 ## Contact
 
 For questions or issues, please open a [GitHub Issue](../../issues) or contact the authors.
+
+---
+
+<details>
+<summary><b>Keywords</b> (for search visibility)</summary>
+
+CSI prediction, channel state information, MIMO, massive MIMO, channel prediction, deep learning, GRU, gated recurrent unit, attention mechanism, Luong attention, gated fusion, DSLH, dimension-wise separable linear head, resource-efficient, lightweight neural network, 5G, 5G NR, 3GPP, TR 38.901, QuaDRiGa, channel estimation, wireless communications, time-series prediction, sequence-to-sequence, inference throughput, PyTorch, NMSE, beamforming, CSI feedback, mobility, Doppler, fading channel, UMa, UMi, LOS, NLOS
+
+</details>
