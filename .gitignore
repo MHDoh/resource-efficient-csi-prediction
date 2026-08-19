@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Datasets (large .mat files — not tracked in git)
+*.mat
+data/
+datasets/
+
+# Trained model checkpoints (large .pt files)
+trained_streamlined/
+*.pt
+*.pth
+
+# Logs
+*.log
+wandb/
+runs/

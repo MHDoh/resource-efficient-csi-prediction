@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated paper."
+title: "Resource-Efficient CSI Prediction: A Gated Fusion and Factorized Projection Approach"
+type: software
+authors:
+  - family-names: Hussain
+    given-names: Mohammad
+  - family-names: Adibag
+    given-names: Maedeh
+  - family-names: Gurer
+    given-names: Dilara
+  - family-names: Kalem
+    given-names: Gokhan
+  - family-names: Serin
+    given-names: Kerim
+  - family-names: Coleri
+    given-names: Sinem
+preferred-citation:
+  type: article
+  title: "Resource-Efficient CSI Prediction: A Gated Fusion and Factorized Projection Approach"
+  authors:
+    - family-names: Hussain
+      given-names: Mohammad
+    - family-names: Adibag
+      given-names: Maedeh
+    - family-names: Gurer
+      given-names: Dilara
+    - family-names: Kalem
+      given-names: Gokhan
+    - family-names: Serin
+      given-names: Kerim
+    - family-names: Coleri
+      given-names: Sinem
+  journal: "IEEE Communications Letters"
+  year: 2026
+  doi: "10.1109/LCOMM.2026.3691476"
+  identifiers:
+    - type: other
+      value: "arXiv:2605.06578"
+      description: "arXiv preprint"
+  url: "https://arxiv.org/abs/2605.06578"
