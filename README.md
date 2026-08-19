@@ -1,7 +1,7 @@
 # Resource-Efficient CSI Prediction: A Gated Fusion and Factorized Projection Approach
 
 [![arXiv](https://img.shields.io/badge/arXiv-2605.06578-b31b1b.svg)](https://arxiv.org/abs/2605.06578)
-[![IEEE Xplore](https://img.shields.io/badge/IEEE%20Xplore-10.1109/LCOMM.2026.3691476-00629B.svg)](https://ieeexplore.ieee.org/document/10969067)
+[![IEEE Xplore](https://img.shields.io/badge/IEEE%20Xplore-10.1109/LCOMM.2026.3691476-00629B.svg)](https://ieeexplore.ieee.org/document/11513393)
 [![IEEE](https://img.shields.io/badge/IEEE-Communications%20Letters-blue.svg)](https://doi.org/10.1109/LCOMM.2026.3691476)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-ee4c2c.svg)](https://pytorch.org/)
@@ -18,7 +18,7 @@ Official implementation of the paper:
 ### 📄 Paper Links
 | | Link |
 |---|---|
-| **IEEE Xplore** | [https://ieeexplore.ieee.org/document/10969067](https://ieeexplore.ieee.org/document/10969067) |
+| **IEEE Xplore** | [https://ieeexplore.ieee.org/document/11513393](https://ieeexplore.ieee.org/document/11513393) |
 | **arXiv** | [https://arxiv.org/abs/2605.06578](https://arxiv.org/abs/2605.06578) |
 | **DOI** | [10.1109/LCOMM.2026.3691476](https://doi.org/10.1109/LCOMM.2026.3691476) |
 
